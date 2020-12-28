@@ -5,7 +5,6 @@ import Banner from '../components/non-front-banner'
 import BookInfo from '../components/book-info/book-info'
 import { DiscussionEmbed } from "disqus-react"
 import Book1 from '../../static/book/book1-min.png'
-import Book2 from '../../static/book/book2-min.png'
 import { Helmet } from "react-helmet"
 
 const ATB = (props)=>{
