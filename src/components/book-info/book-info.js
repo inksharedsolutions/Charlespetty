@@ -48,7 +48,7 @@ const BookInfo = (props)=>{
                             {
                                 (props.data.paperback.amazon.length + props.data.paperback.booksamillion.length + props.data.paperback.barnes.length) > 0?
                                 <span>Paperback :</span> :
-                                <p className="book-links-coming">Book links are coming soon.</p>
+                                <p className="book-links-coming"></p>
                             }
 
                             { props.data.paperback.amazon.length > 0 && (

@@ -35,7 +35,7 @@ const UpperMain =()=>{
                                 <span>Author & Writer</span>
 
                                 <p>
-                                In the late 1960’s, I served as a non-uniformed member of the United States military on the secretive seventh floor of TUSLOG Headquarters Ankara, Turkey. During this turmultuous time in that country’s history, there were numerous events which included a Communist Chinese attempted takeover of the Turkish Government, an earthquake, and the Russian “capture” of an American General, the hijacking of a Russian passenger airliner into Turkish airspace and several events across the border into Beirut, Lebanon and western Syrian .
+                                In the late 1960’s, I served as a non-uniformed member of the United States military on the secretive seventh floor of TUSLOG Headquarters Ankara, Turkey. During this turmultuous time in that country’s history, there were numerous events which included a Communist Chinese attempted takeover of the Turkish Government, an earthquake, and the Russian “capture” of an American General, the hijacking of a Russian passenger airliner into Turkish airspace and several events across the border into Beirut, Lebanon and western Syrian.
                                 </p>
 
                                 <button>
