@@ -80,6 +80,7 @@ $prm-font-size : 12px;
     margin-top: 29px;
     display: block;
     color: #929292;
+    text-align: justify;
 }
 
 .author-image-container{
@@ -94,10 +95,12 @@ $prm-font-size : 12px;
 .article-section{
     p{
         // font-size: 15px;
+        display: flex;
         line-height: 2.2;
         // text-align: justify;
         color: #696969;
         margin-bottom: 2em;
+        text-align: justify;
     }
 }
 
