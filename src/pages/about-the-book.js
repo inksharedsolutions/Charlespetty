@@ -37,7 +37,7 @@ const ATB = (props)=>{
 
                             <BookInfo
                                 data={{
-                                    title:`Almost A SPY`,
+                                    title:`Almost A Spy Too`,
                                     spanTitle: '',
                                     imgSrc: Book1,
                                     id:'black-psychologist',

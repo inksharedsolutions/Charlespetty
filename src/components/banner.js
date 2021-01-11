@@ -28,7 +28,7 @@ const Banner = ()=>{
 
                                         <span className="second-block">
                                             <span>
-                                                SPY
+                                                SPY TOO
                                             </span>
                                             <span id="color-o">
                                             </span>
