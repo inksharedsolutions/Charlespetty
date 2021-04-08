@@ -63,7 +63,7 @@ const ATB = (props)=>{
                                     },
                                     paperback:{
                                         amazon:'',
-                                        barnes:'',
+                                        barnes:'https://www.barnesandnoble.com/w/almost-a-spy-charles-petty/1108219997?ean=9781948654791',
                                         booksamillion:'',
                                     }
                                 }}
