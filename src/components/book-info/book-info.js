@@ -45,11 +45,15 @@ const BookInfo = (props)=>{
                         </nav>
 
                         <nav className="booklinkBlocks">
-                            {
-                                (props.data.paperback.amazon.length + props.data.paperback.booksamillion.length + props.data.paperback.barnes.length) > 0?
+                            {/*
+                                (props.data.paperback.length + props.data.paperback.booksamillion.length + props.data.paperback.barnes.length) > 0?
                                 <span>Paperback :</span> :
                                 <p className="book-links-coming"></p>
-                            }
+                            */}
+                            { props.data.paperback.length > 0 && (
+                                <span>Paperback :</span> :
+                                <p className="book-links-coming"></p>
+                            )}
 
                             { props.data.paperback.amazon.length > 0 && (
                                 <li><a rel="noopener noreferrer" target="_blank" href={props.data.paperback.amazon}>Amazon</a></li>
