@@ -57,7 +57,7 @@ const ATB = (props)=>{
                                     `,
                                     
                                     ebooks:{
-                                        stratton: 'https://www.stratton-press.com/books/almost-a-spy/',
+                                        stratton: '',
                                         barnes: 'https://www.barnesandnoble.com/w/almost-a-spy-charles-petty/1108219997?ean=9781648951206',
                                         amazon :'https://www.amazon.com/Almost-Spy-Charles-Petty-ebook/dp/B08F2Y8CS1/ref=sr_1_1?dchild=1&keywords=9781648951206&qid=1609141701&sr=8-1', 
                                     },
@@ -68,7 +68,7 @@ const ATB = (props)=>{
                                     }
                                 }}
                             />
-
+			    {/*Stratton Link: https://www.stratton-press.com/books/almost-a-spy/*/}
                             <div className="commentSection" >
                                 <DiscussionEmbed {...disqusConfig} />
                             </div>
